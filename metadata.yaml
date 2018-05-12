@@ -1,0 +1,33 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-ExeterA-Description-of-Its-Fabric-and-a-Brief-Hist__19424
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Addleshaw, Percy
+    alias: Hemingway, Percy
+    birthdate: 1866
+    deathdate: 1916
+    gutenberg_agent_id: '6227'
+    url: http://www.gutenberg.org/2009/agents/6227
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Addleshaw
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Architecture
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Exeter Cathedral'
+- !lcc 'NA'
+title: 'Bell''s Cathedrals: The Cathedral Church of Exeter
+
+  A Description of Its Fabric and a Brief History of the Episcopal See'
+url: http://www.gutenberg.org/ebooks/19424
